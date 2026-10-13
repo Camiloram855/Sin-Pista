@@ -1,0 +1,10 @@
+{
+  "name": "SinPista.Tests.EditMode",
+  "rootNamespace": "SinPista.Tests",
+  "references": ["SinPista.Core","SinPista.Gameplay","UnityEngine.TestRunner","UnityEditor.TestRunner"],
+  "includePlatforms": ["Editor"],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll"],
+  "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+  "autoReferenced": false
+}

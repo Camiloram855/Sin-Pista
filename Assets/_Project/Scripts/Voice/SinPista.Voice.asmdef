@@ -1,0 +1,6 @@
+{
+  "name": "SinPista.Voice",
+  "rootNamespace": "SinPista.Voice",
+  "references": ["SinPista.Core"],
+  "autoReferenced": true
+}

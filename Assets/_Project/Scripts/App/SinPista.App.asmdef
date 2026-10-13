@@ -1,0 +1,6 @@
+{
+  "name": "SinPista.App",
+  "rootNamespace": "SinPista.App",
+  "references": ["SinPista.Core","SinPista.Gameplay","SinPista.Networking","SinPista.Voice","SinPista.Players","SinPista.Presentation","SinPista.UI","SinPista.Platform"],
+  "autoReferenced": true
+}

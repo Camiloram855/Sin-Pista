@@ -1,0 +1,6 @@
+{
+  "name": "SinPista.Core",
+  "rootNamespace": "SinPista.Core",
+  "references": [],
+  "autoReferenced": true
+}

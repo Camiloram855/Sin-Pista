@@ -1,0 +1,6 @@
+{
+  "name": "SinPista.Networking",
+  "rootNamespace": "SinPista.Networking",
+  "references": ["SinPista.Core","SinPista.Gameplay"],
+  "autoReferenced": true
+}

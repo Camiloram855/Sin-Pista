@@ -1,0 +1,6 @@
+{
+  "name": "SinPista.Players",
+  "rootNamespace": "SinPista.Players",
+  "references": ["SinPista.Core"],
+  "autoReferenced": true
+}

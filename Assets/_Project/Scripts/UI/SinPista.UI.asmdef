@@ -1,0 +1,6 @@
+{
+  "name": "SinPista.UI",
+  "rootNamespace": "SinPista.UI",
+  "references": ["SinPista.Core","SinPista.Gameplay","SinPista.Players"],
+  "autoReferenced": true
+}
